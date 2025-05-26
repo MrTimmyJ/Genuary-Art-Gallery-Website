@@ -62,7 +62,7 @@ genuary-2025-gallery/<br>
 │   │   │   └── day1-art.js &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Navigational menu logic<br>
 │   │   │   ├── day2/<br>
 │   │   │   └── ...<br>
-├── art/<br><br>
+├── art/<br>
 │   ├── day1/<br>
 │   │   └── art1.html &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Full canvas p5.js sketch<br>
 │   ├── day2/<br>
